@@ -4,6 +4,15 @@
 
 Welcome to the "Machine Learning Examples" repository. This repository is a collection of custom-built machine learning models demonstrating various approaches to regression and classification problems. Each model is uniquely designed using different neural network architectures and evolutionary strategies, all written from scratch.
 
+Bellow we show few results obtained from regresion and the classification tasks.
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/loss.jpg" alt="Representation of the Task Problem" width="300"/>
+  <img src="docs/parameters.jpg" alt="Representation of the Task Problem" width="300"/>
+  <img src="docs/regression.jpg" alt="Representation of the Task Problem" width="300"/>
+  <img src="docs/classification.jpg" alt="Representation of the Task Problem" width="300"/>
+</div>
+
+
 ## Contents
 
 - [ReggresionRBFAndES.py](#reggresionrbfandespy)
