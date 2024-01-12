@@ -4,7 +4,8 @@
 
 Welcome to the "Machine Learning Examples" repository. This repository is a collection of custom-built machine learning models demonstrating various approaches to regression and classification problems. Each model is uniquely designed using different neural network architectures and evolutionary strategies, all written from scratch.
 
-Bellow we show few results obtained from regresion and the classification tasks.
+Below, we present a selection of results achieved through the application of the Artificial Neural Network (ANN) model, coupled with Evolutionary Strategies (ES) for optimization. These outcomes pertain to both regression and classification tasks.
+
 <div style="display: flex; justify-content: space-between;">
   <img src="docs/loss.png" alt="Representation of the Task Problem" width="200"/>
   <img src="docs/parameters.png" alt="Representation of the Task Problem" width="200"/>
