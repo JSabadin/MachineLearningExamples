@@ -6,10 +6,10 @@ Welcome to the "Machine Learning Examples" repository. This repository is a coll
 
 Bellow we show few results obtained from regresion and the classification tasks.
 <div style="display: flex; justify-content: space-between;">
-  <img src="docs/loss.png" alt="Representation of the Task Problem" width="300"/>
-  <img src="docs/parameters.png" alt="Representation of the Task Problem" width="300"/>
-  <img src="docs/regression.png" alt="Representation of the Task Problem" width="300"/>
-  <img src="docs/classification.png" alt="Representation of the Task Problem" width="300"/>
+  <img src="docs/loss.png" alt="Representation of the Task Problem" width="200"/>
+  <img src="docs/parameters.png" alt="Representation of the Task Problem" width="200"/>
+  <img src="docs/regression.png" alt="Representation of the Task Problem" width="200"/>
+  <img src="docs/classification.png" alt="Representation of the Task Problem" width="500"/>
 </div>
 
 
